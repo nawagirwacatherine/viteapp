@@ -1,11 +1,11 @@
 import './App.jsx';
 import './react';
 
-function Orderonline () {
-
-    return (
+const Contact = () =>{
+    return(
         <div>
 
+            
         </div>
 
 
@@ -13,4 +13,4 @@ function Orderonline () {
 
 };
 
-export default Orderonline ;
+export default Contact;

@@ -1,4 +1,4 @@
-import './App.jsx';
+
 import './react';
 
 const About = () =>{

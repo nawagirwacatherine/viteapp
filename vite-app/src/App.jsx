@@ -39,11 +39,11 @@
 
 
 import './App.css';
-import Home from './Home';
-import Menu from './Menu';
-import Orderonline from './Orderonline.js';
-import Login from './Login';
-import BookingPage from  './BookingPage.js';
+import Home from '../components/Home.jsx';
+import Menu from '../components/Menu.jsx';
+import Orderonline from '../components/Orderonline.jsx';
+import Login from '../components/Login.jsx';
+import BookingPage from  '../components/BookingPage.jsx';
 import {Routes, Route, Link} from 'react-router-dom';
 
 

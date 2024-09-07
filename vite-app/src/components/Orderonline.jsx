@@ -1,5 +1,4 @@
 
-import './react';
 
 function Orderonline () {
 

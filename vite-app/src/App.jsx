@@ -9,14 +9,9 @@ import Login from './login.jsx';
 import BookingPage from  './bookingPage.jsx';
 import {Routes, Route, Link} from 'react-router-dom';
 
-
-
-
-
 const App=() => {
 
   return(
-
     <div className="App">
       <nav className="nav">
         <Link to="/" className="nav-item">Home</Link>
@@ -34,9 +29,6 @@ const App=() => {
     <Route path="/booking" element={<BookingPage />} /> 
     </Routes>
     </div>
-
-
-
   );
 }
 export default App;
